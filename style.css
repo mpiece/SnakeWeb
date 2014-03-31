@@ -1,0 +1,37 @@
+#GamePanel{
+	color:#CC0000;
+	border:5px solid #5b5b5b;
+	height:400px;
+	float:left;
+	width:500px;
+	-moz-border-radius:15px;
+    -webkit-border-radius:15px;
+    border-radius:15px;
+	background-color:#969696;
+	position:relative;
+
+}
+body{
+	background-color:black;
+}
+#ScorePanel{
+	margin-left:20px;
+	color:#CC0000;
+	float:left;
+	border:5px solid #5b5b5b;
+	height:400px;
+	width:200px;
+	
+	border-radius:15px;
+	background-color:#969696;
+	position:relative;
+}
+div{
+	border-radius:50px;
+}
+*{
+	border:1px dashed white;
+}
+p{
+	color:white;
+}
